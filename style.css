@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* .ph-heading {
+    font-family: poppins;
+
+}
+
+
+.ph-subheading {
+    font-family: poppins;
+} */
+
+.ph-image {
+    width: 30rem;
+}
+
+
+.placeholder {
+    display: flex;
+    font-family: poppins;
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 5rem;
+}
